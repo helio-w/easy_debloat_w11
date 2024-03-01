@@ -69,7 +69,8 @@ $baseInstall = @(
     "spotify.spotify",
     "IrfanSkiljan.IrfanView",   # Image Viewer
     "9MVZQVXJBQ9V",             # AV1 Extensions
-    "Notepad++.Notepad++"      # Better Notepad
+    "Notepad++.Notepad++",      # Better Notepad
+	"TheDocumentFoundation.LibreOffice"
     # "KDE.Okular"                # PDF Viewer / Seems to be broken
     
 )
