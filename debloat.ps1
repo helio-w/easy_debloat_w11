@@ -41,7 +41,6 @@ $toRemove = @(
     "Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe",
     "Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe",
     "Microsoft.OutlookForWindows_8wekyb3d8bbwe",
-    "Microsoft.Paint_8wekyb3d8bbwe",
     "Microsoft.People_8wekyb3d8bbwe",
     "Microsoft.PowerAutomateDesktop_8wekyb3d8bbwe",
     "Microsoft.DevHome", # PowerAutomate
